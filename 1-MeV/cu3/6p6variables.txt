@@ -1,0 +1,10 @@
+varmatrix_1,varmatrix_2
+Time_of_data,07-Sep-2015 16:00:29
+Start_of_run,02-Jun-2015 09:59:00
+End_of_run,02-Jun-2015 21:16:30
+endFluence,179271981872.922
+endStd,135736895811.128
+mkpin,0.000180478467892919
+errorPin,0.757156218127522
+endpot,975523203200000
+cut,2500

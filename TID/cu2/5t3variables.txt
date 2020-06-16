@@ -1,0 +1,12 @@
+varmatrix_1,varmatrix_2
+Time_of_data,09-Jun-2015 15:42:19
+Start_of_run,29/05/2015 20:25:00
+End_of_run,30/05/2015 20:15:50
+doseend100,37.9823376605992
+error_final100,NaN
+doseend400,20.7910696393467
+error_final400,NaN
+endpot,1.7746775424e+15
+mk100,2.14023881821559e-14
+mk400,1.17154069641461e-14
+cut,2500

@@ -1,0 +1,12 @@
+varmatrix_1,varmatrix_2
+Time_of_data,08-Oct-2015 11:02:45
+Start_of_run,12-Nov-2014 16:55:00
+End_of_run,13-Nov-2014 12:01:10
+Risk factor,1.079
+endHEH5V,44772829077.1276
+meanerrorTosh,0.0109049265023823
+comberrorTosh,0.127467319035204
+endpot,704591619200000
+mkHEH5V,6.22342106556124e-05
+seuV5,19091
+cut,1500

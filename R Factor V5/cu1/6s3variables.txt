@@ -1,0 +1,16 @@
+varmatrix_1,varmatrix_2
+Time_of_data,08-Oct-2015 14:40:33
+Start_of_run,28-May-2015 20:06:00
+End_of_run,29-May-2015 13:17:10
+Risk factor,1.30123323141922
+endHEHcyp,40820452870.6074
+endTHtosh,53116929796.8167
+endpot,1.1001921056e+15
+mkHEHcyp,3.69678391244479e-05
+meanerrorCyp,0.00267444805830309
+comberrorCyp,0.1060337336531
+mkTHto3V,4.78933374928428e-05
+meanerrorTosh,0.00534116698671941
+seucyp,269147
+seutosh,176189.5
+cut,1500
